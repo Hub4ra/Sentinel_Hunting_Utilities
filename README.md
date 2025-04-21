@@ -1,0 +1,2 @@
+# Sentinel_Hunting_Utilities - Helpful Kusto Query Language Queries & Full On Python Scripts To Get The Most Out Of KQL And Python. 
+process_tree_util.py: A powerful, flexible tool for dynamically extracting and visualizing process trees using kql and python to dynamically generate, enrich and (using networkx + pydot) visualize the process tree while keeping scalability and visual clarity in mind. (Originally written in databricks but easily applicable to other notebook environments)
